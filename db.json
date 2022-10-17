@@ -1,0 +1,32 @@
+{
+
+
+
+    
+    "ourCohortObject": {
+
+        "Sam": "Sam's Name",
+        "Adam": "Adam's Name"
+
+    } 
+
+    ,
+
+
+    "ourCohortArray": [
+
+        {
+            "name": "Sam",
+            "role": "Instructor"
+        },
+        {
+            "name": "Adam",
+            "role": "Instructor"
+        }
+
+    ]
+
+
+
+
+}
