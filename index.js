@@ -119,31 +119,209 @@ console.log( "👀" )  //
 
 
 
-let objectForLeahsQuestion = {
+// let objectForLeahsQuestion = {
 
-    // K:  V
-    name: "Leah",
+//     // K:  V
+//     name: "Leah",
 
-    "name-with-a-dash-do": "L-e-a-h"
+//     "name-with-a-dash-do": "L-e-a-h"
 
-}
-console.log( "Leah's Question : " , objectForLeahsQuestion.name )
-//X// console.log( "Leah's Question : " , objectForLeahsQuestion.name-with-a-dash-do )
-console.log( "Leah's Question : " , objectForLeahsQuestion["name-with-a-dash-do"] )
-
-
-// let someRandomArray = [ "a" , "b" , "c" ] // n-1
-
-// someRandomArray[ 2 ]
+// }
+// console.log( "Leah's Question : " , objectForLeahsQuestion.name )
+// //X// console.log( "Leah's Question : " , objectForLeahsQuestion.name-with-a-dash-do )
+// console.log( "Leah's Question : " , objectForLeahsQuestion["name-with-a-dash-do"] )
 
 
+// // let someRandomArray = [ "a" , "b" , "c" ] // n-1
+
+// // someRandomArray[ 2 ]
 
 
-const maesArray = [
 
-    { name: "Nathan" }
 
-]
+// const maesArray = [
+
+//     { name: "Nathan" }
+
+// ]
+
+
+
+
+
+
+
+
+
+
+
+
+// f()
+/*
+
+console. log()
+
+.forEach()
+.map()
+
+
+.querySelector()
+.getElementById()
+
+*/ 
+
+
+
+
+
+
+// function someName( someParameter1 ) {
+
+//     console.log( "someParameter1 - function keyword: " , someParameter1 )
+
+//     // do something
+
+// }
+// someName( 180 )
+
+
+
+
+// const someNameButArrowDo =( someParameter1 )=>{
+
+//     console.log( "someParameter1 - arrow function: " , someParameter1 )
+
+//     // do something
+
+// }
+// someNameButArrowDo( 191 )
+
+
+
+
+
+
+
+
+
+
+// "WEB Address"
+
+// "A Sync Chronos"
+// "- Sync Chronos"
+// fetch( "from the Deli" ).then( 👜 -> open ).then( NOW WE CAN DO SOMETHING )
+
+// fetch( "from the Deli" )
+// .then( 👜 -> open )
+// .then( NOW WE CAN DO SOMETHING )
+
+
+// fetch( "" ).then( -> ).then( doSomething)
+
+
+// fetch( "" ).then( response => response.json() ).then( ()=>{ doSomething } )
+
+
+
+
+// .then( ( response )=>{ response.json() } )
+// // 🔍
+// .then( 
+
+//     ( response )=> { 
+
+//         response.json() 
+    
+//     }
+
+// )
+
+// .then(  function(){}  )
+// .then(  ()=>{}  )
+
+
+
+
+
+
+
+
+
+// fetch( "" )
+// .then( response => response.json() )
+// .then( ()=>{ doSomething } )
+
+
+// fetch('http://example.com/movies.json')
+//     .then((response) => response.json())
+//   .then((data) => console.log(data));
+
+
+
+
+
+
+
+
+fetch( "http://localhost:3000/ourCohortArray" )
+.then( response => response.json() )
+.then( ( theDataFromTheFetch )=>{  console.log( theDataFromTheFetch )  } )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function fetchSomeStuff(){
+
+//     // do something
+
+//     fetch()
+
+
+// }
+
+// fetchSomeStuff( )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
