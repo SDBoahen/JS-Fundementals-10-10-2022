@@ -1,3 +1,6 @@
+//// JS with the Browser
+
+
 console.log( "👀" )  //
 
 
@@ -266,6 +269,7 @@ console. log()
 fetch( "http://localhost:3000/ourCohortArray" )
 .then( response => response.json() )
 .then( ( theDataFromTheFetch )=>{  console.log( theDataFromTheFetch )  } )
+// .then( console.log )
 
 
 
